@@ -1,0 +1,3 @@
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\CramerCalculator\CramerCalculator\bin\Debug\CramerCalculator.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\CramerCalculator\CramerCalculator\obj\Debug\CramerCalculator.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\CramerCalculator\CramerCalculator\obj\Debug\CramerCalculator.pdb
